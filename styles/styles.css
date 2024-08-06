@@ -43,6 +43,11 @@ button {
   .yes-button {
     background-color: white;
   }
+
+  .yes-button:active {
+    background-color: pink;
+    transition: backroung-color 0.3s ease-in-out;
+  }
     
 
   
